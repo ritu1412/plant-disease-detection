@@ -16,7 +16,7 @@ The dataset used in this project comprises images of plant leaves affected by va
 
 ## Technologies Used
 - Python
-- Libraries: TensorFlow, Keras, OpenCV, etc. (List any other libraries/tools used in your project)
+- Libraries: TensorFlow, Keras, OpenCV, etc. (List given in requirements.txt)
 
 ## How to Run the Project
 ```bash
